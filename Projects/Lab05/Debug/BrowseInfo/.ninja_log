@@ -1,0 +1,18 @@
+# ninja log v5
+190	397	6390224280000000	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Lab05/Debug/BrowseInfo/system_TM4C1294_TW.xcl	7dbc519045a2dea9
+410	597	6390224282523779	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Lab05/Debug/BrowseInfo/system_TM4C1294_TW.pbi	967760b6877430df
+344	398	6390226035182514	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Lab05/Debug/BrowseInfo/Lab05_part1.pbi	59239425156c1e37
+118	179	6394561591704790	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Lab05/Debug/BrowseInfo/Lab05.pbd	5133e89f1ea1c0a7
+250	418	6390202846455601	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Lab05/Debug/BrowseInfo/tarefas.pbi	513fed843ebe863a
+188	1358	6394561602755634	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Lab05/Debug/BrowseInfo/Lab05.pbw	7c93598715a044d2
+81	109	6394561591020342	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Lab05/Debug/BrowseInfo/Lab05_part0.pbi	195357425b498ec2
+2	317	6390224270000000	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Lab05/Debug/BrowseInfo/RTX_Config.xcl	220dddb08b1df32e
+7	241	6390202840000000	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Lab05/Debug/BrowseInfo/tarefas.xcl	2a38528267f796a3
+8	176	6390224270000000	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Lab05/Debug/BrowseInfo/rtx_lib.xcl	f5d809cee80be9f
+331	496	6390224281516465	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Lab05/Debug/BrowseInfo/RTX_Config.pbi	2feff31c525529a8
+500	716	6390224283692420	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Lab05/Debug/BrowseInfo/rtx_lib.pbi	9cf03164a1a4c38
+3	196	6390226030000000	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Lab05/Debug/BrowseInfo/prodcons.xcl	798d3d82184e755e
+8	213	6390226030000000	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Lab05/Debug/BrowseInfo/driverleds.xcl	b911d8475362ceec
+226	320	6390226034534248	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Lab05/Debug/BrowseInfo/driverleds.pbi	e9fea0d1e20fa200
+1	76	6394561590670754	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Lab05/Debug/BrowseInfo/prodcons.pbi	5a1a0db448f5380a
+326	381	6390226035152600	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Lab05/Debug/BrowseInfo/Lab05_part2.pbi	e6f8a60bd6d636eb
