@@ -1,0 +1,26 @@
+# ninja log v5
+882	1101	6425008605380544	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Obj/UART_inst.o	f0f735ff5e5af016
+2	26	6425004141254374	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Obj/startup_TM4C1294.o	fcc6af881b4f74db
+7	306	6425008597272241	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Obj/driverleds.o	a743b65c45853ba7
+320	472	6425008598987652	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Obj/RTX_Config.o	a503721f050c3d35
+3	310	6427352432065757	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Obj/elevador.o	a840947415909b64
+706	869	6425008603046791	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Obj/rtx_lib.o	5c2340857e2476bb
+488	689	6425008601171803	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Obj/system_TM4C1294_TW.o	dbe0e9c1f54951d2
+328	535	6427352433916444	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Exe/Elevador.out	27517aa7294cb063
+613	984	6425008604173775	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Obj/uartstdio.o	b72de744dfe7aa29
+5	228	6427354274539839	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Obj/elevador.o	a840947415909b64
+244	385	6427354276050513	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Exe/Elevador.out	27517aa7294cb063
+2	220	6427354541182141	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Obj/elevador.o	a840947415909b64
+238	396	6427354542872718	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Exe/Elevador.out	27517aa7294cb063
+3	324	6427358280692614	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Obj/elevador.o	a840947415909b64
+344	574	6427358282657347	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Exe/Elevador.out	27517aa7294cb063
+3	208	6427360097922411	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Obj/elevador.o	a840947415909b64
+231	377	6427360099557708	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Exe/Elevador.out	27517aa7294cb063
+3	285	6427362615568801	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Obj/elevador.o	a840947415909b64
+305	453	6427362617198450	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Exe/Elevador.out	27517aa7294cb063
+7	849	6427547048320565	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Obj/elevador.o	a840947415909b64
+867	1301	6427547052785231	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Exe/Elevador.out	27517aa7294cb063
+2	284	6427550983294251	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Obj/elevador.o	a840947415909b64
+305	450	6427550984956604	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Exe/Elevador.out	27517aa7294cb063
+3	209	6427551908183410	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Obj/elevador.o	a840947415909b64
+232	368	6427551909734057	C:/Users/Victor/Documents/Github_Embarcados/ARM-RTX-Projects/Projects/Elevador/Debug/Exe/Elevador.out	27517aa7294cb063

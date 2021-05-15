@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\Elevador\Elevador.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\Lab05\Lab05.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\led_pwm.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

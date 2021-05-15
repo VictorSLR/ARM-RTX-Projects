@@ -1,0 +1,15 @@
+C:\Users\Victor\Documents\Github_Embarcados\ARM-RTX-Projects\Projects\Led_Pwm\Debug\BrowseInfo\driverbuttons.pbi: \
+  C:\Users\Victor\Documents\Github_Embarcados\ARM-RTX-Projects\Projects\drivers\driverbuttons.h \
+  C:\Users\Victor\Documents\Github_Embarcados\ARM-RTX-Projects\Projects\Led_Pwm\..\..\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h \
+  C:\Users\Victor\Documents\Github_Embarcados\ARM-RTX-Projects\Projects\Led_Pwm\..\..\TivaWare_C_Series-2.1.4.178\driverlib\gpio.h \
+  C:\Users\Victor\Documents\Github_Embarcados\ARM-RTX-Projects\Projects\Led_Pwm\..\..\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h \
+  C:\Users\Victor\Documents\Github_Embarcados\ARM-RTX-Projects\Projects\Led_Pwm\..\..\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h \
+  C:\Users\Victor\Documents\Github_Embarcados\ARM-RTX-Projects\Projects\Led_Pwm\..\..\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stdint.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stdbool.h \
+  C:\Users\Victor\Documents\Github_Embarcados\ARM-RTX-Projects\Projects\drivers\driverbuttons.c
